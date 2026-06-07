@@ -82,7 +82,13 @@ React • FastAPI • Node.js • Electron • Git • Linux
 </p>
 
 ---
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinarayanan-TR&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
