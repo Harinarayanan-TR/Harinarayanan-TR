@@ -5,7 +5,10 @@
 </p>
 
 <h1 align="center">⚡ Harinarayanan TR</h1>
-<h3 align="center">AI Systems Builder • VibeCoder • Local-First Engineer • Future Founder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;VibeCoder;Local-First+Engineer;Future+Tech+Founder;Building+the+future+one+system+at+a+time" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harinarayanan-TR&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -28,29 +31,31 @@ const hari = {
 };
 ```
 
+I’m not just learning tech — I’m building **systems that actually do things**.
+From low-level OS work to high-level AI interfaces, I like understanding how everything connects.
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🖥️ SysView
 
-Cross-platform hybrid terminal + system utility built with Electron.
-Run native OS commands, view system info, and execute custom workflows in one interface.
-Available in both Classic and OTA-enabled versions.
+A cross-platform hybrid terminal + system utility built with Electron.
+Run native commands, inspect system data, and execute workflows in one clean interface.
 
 ---
 
 ### 🧠 SentraOS
 
-Custom Linux-based operating system built on the Linux kernel and GRUB.
-Focused on modularity, minimalism, and deep system-level experimentation.
+A custom Linux-based operating system powered by GRUB.
+Focused on modularity, minimalism, and deep system-level exploration.
 
 ---
 
 ### 🤖 Local AI Server (WIP 🚧)
 
-Sleek GUI for Ollama that turns your system into a **local AI server**.
-Multi-device access, authentication, model hosting, and fully offline AI interaction.
+A sleek GUI for Ollama that turns any machine into a **local AI server**.
+Multi-device access, authentication, and fully offline AI interactions.
 
 ---
 
@@ -82,13 +87,15 @@ React • FastAPI • Node.js • Electron • Git • Linux
 </p>
 
 ---
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinarayanan-TR&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinarayanan-TR&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -103,7 +110,7 @@ React • FastAPI • Node.js • Electron • Git • Linux
 * 👀 Achieve **10,000+ profile views**
 * 🧠 Master **low-level systems & OS design**
 * 🤖 Build a **complete local AI ecosystem**
-* 💻 Ship **multiple real-world dev tools**
+* 💻 Ship **real-world dev tools**
 * 🌐 Launch a **startup-level AI product**
 
 ---
@@ -121,4 +128,4 @@ React • FastAPI • Node.js • Electron • Git • Linux
 
 ---
 
-⭐ Star my repositories if you find them interesting — it helps more than you think.
+⭐ If something here inspires you, drop a star — it genuinely helps.
