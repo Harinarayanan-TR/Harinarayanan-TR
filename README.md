@@ -86,7 +86,7 @@ React • FastAPI • Node.js • Electron • Git • Linux
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harinarayanan-TR/Harinarayanan-TR/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Harinarayanan-TR/Harinarayanan-TR/output/snake.svg" />
 </p>
 
 ---
