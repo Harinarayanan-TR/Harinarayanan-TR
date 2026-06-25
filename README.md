@@ -34,6 +34,7 @@ const hari = {
 I’m not just learning tech — I’m building **systems that actually do things**.
 From low-level OS work to high-level AI interfaces, I like understanding how everything connects.
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -129,3 +130,5 @@ React • FastAPI • Node.js • Electron • Git • Linux
 ---
 
 ⭐ If something here inspires you, drop a star — it genuinely helps.
+
+Hey, Wanna visit a custom crawler website i created, that you can use to automatically crawl the internet? Visit (Also download the output) : https://crawler-xke4.onrender.com/
