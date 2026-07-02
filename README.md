@@ -34,6 +34,11 @@ const hari = {
 I’m not just learning tech — I’m building **systems that actually do things**.
 From low-level OS work to high-level AI interfaces, I like understanding how everything connects.
 
+ORGANISATIONS:
+
+ChatNow-web <https://github.com/ChatNow-web>
+
+DEVLABS <https://github.com/os-studio-labs>
 
 ---
 
